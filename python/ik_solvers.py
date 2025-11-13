@@ -307,7 +307,7 @@ def benchmark_solvers(num_trials: int = 100):
 
 if __name__ == "__main__":
     # Example usage
-    print("Advanced IK Solvers - Disney TD Portfolio\n")
+    print("Advanced IK Solvers\n")
     
     # Create a simple 3-joint arm
     joints = [
